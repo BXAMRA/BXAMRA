@@ -25,15 +25,6 @@ I build scalable, modern, and future-ready solutions for the web, mobile, and cr
 
 ---
 
-## 📂 Featured Projects  
-🔹 [**QuickDoo**](#) – Android Task Manager App  
-🔹 [**Discover India**](#) – Interactive cultural website  
-🔹 [**My Portfolio**](https://bxamra.github.io) – This very site!  
-
-*(More projects coming soon…)*  
-
----
-
 ## 🎓 Education  
 - Diploma in Computers – Lovely Professional University (2015)  
 - Associate of Computer Science – Langara College (2018)  
@@ -48,7 +39,3 @@ I build scalable, modern, and future-ready solutions for the web, mobile, and cr
   <a href="https://linkedin.com/in/bxamra"><img src="https://img.shields.io/badge/LinkedIn-Jass_Bhamra-blue?style=flat&logo=linkedin"></a>
   <a href="https://instagram.com/bxamra"><img src="https://img.shields.io/badge/Instagram-bxamra-purple?style=flat&logo=instagram"></a>
 </p>
-
----
-
-⭐️ From [bxamra](https://github.com/bxamra)
