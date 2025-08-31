@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hello, नमस्ते, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ — I'm Jass Bhamra  
 
-<!--
-**BXAMRA/BXAMRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Software Systems Engineer | Problem Solver**  
+I build scalable, modern, and future-ready solutions for the web, mobile, and cross-platform ecosystems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🎯 Passionate about **designing intuitive UI/UX** and building **robust backend systems**  
+- 🛠 Skilled in **Full-Stack Development**, **Cross-Platform Applications**, and **Mobile Apps**  
+- 🌱 Always exploring emerging technologies & modern architectures  
+- 📍 Based in Canada | Working globally 🌍  
+
+---
+
+## 🛠 Tech Stack  
+**Languages & Frameworks**  
+`JavaScript` • `TypeScript` • `HTML` • `CSS/SASS` • `PHP` • `.NET` • `Node.js` • `Flutter` • `ElectronJS`  
+
+**Databases**  
+`PostgreSQL` • `MySQL` • `MongoDB` • `SQLite`  
+
+**Tools & Platforms**  
+`Git` • `GitHub` • `Docker` • `VS Code` • `Figma`  
+
+---
+
+## 📂 Featured Projects  
+🔹 [**QuickDoo**](#) – Android Task Manager App  
+🔹 [**Discover India**](#) – Interactive cultural website  
+🔹 [**My Portfolio**](https://bxamra.github.io) – This very site!  
+
+*(More projects coming soon…)*  
+
+---
+
+## 🎓 Education  
+- Diploma in Computers – Lovely Professional University (2015)  
+- Associate of Computer Science – Langara College (2018)  
+- Software Systems Development – BCIT (2019)  
+
+---
+
+## 📫 Let’s Connect  
+<p align="left">
+  <a href="mailto:bxamra@icloud.com"><img src="https://img.shields.io/badge/Email-icloud-blue?style=flat&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/bxamra"><img src="https://img.shields.io/badge/GitHub-bxamra-black?style=flat&logo=github"></a>
+  <a href="https://linkedin.com/in/bxamra"><img src="https://img.shields.io/badge/LinkedIn-Jass_Bhamra-blue?style=flat&logo=linkedin"></a>
+  <a href="https://instagram.com/bxamra"><img src="https://img.shields.io/badge/Instagram-bxamra-purple?style=flat&logo=instagram"></a>
+</p>
+
+---
+
+⭐️ From [bxamra](https://github.com/bxamra)
