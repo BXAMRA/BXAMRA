@@ -1,4 +1,4 @@
-# 👋 Hello, नमस्ते, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ — I'm Jass Bhamra  
+# 👋 Hello, नमस्ते, ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ — I'm BXAMRA  
 
 💻 **Full-Stack Developer | Software Systems Engineer | Problem Solver**  
 I build scalable, modern, and future-ready solutions for the web, mobile, and cross-platform ecosystems.  
