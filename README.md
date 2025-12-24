@@ -15,13 +15,13 @@ I build scalable, modern, and future-ready solutions for the web, mobile, and cr
 
 ## 🛠 Tech Stack  
 **Languages & Frameworks**  
-`JavaScript` • `TypeScript` • `HTML` • `CSS/SASS` • `PHP` • `.NET` • `Node.js` • `Flutter` • `ElectronJS`  
+`Flutter` • `Laravel` • `ElectronJS` • `JavaScript` • `TypeScript` • `HTML` • `CSS/SASS` • `PHP` • `.NET` • `Node.js`
 
 **Databases**  
 `PostgreSQL` • `MySQL` • `MongoDB` • `SQLite`  
 
 **Tools & Platforms**  
-`Git` • `GitHub` • `Docker` • `VS Code` • `Figma`  
+`Git` • `GitHub` • `Docker` • `VS Code`
 
 ---
 
